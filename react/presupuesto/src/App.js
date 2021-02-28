@@ -5,12 +5,12 @@ function App() {
   return (
     <div className="container">
       <header>
-        <h1>Gasto Semanal</h1>
+        <h1>Gasto Mensual</h1>
 
         <div className="contenido-principal contenido">
         <Pregunta />
         </div>
-      
+
       </header>
     </div>
 
